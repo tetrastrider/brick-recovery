@@ -29,7 +29,7 @@ V 1.0 proceso automatico y correcto transplante de los firm
 
 copia el backup de tu nand a  la carpeta y ejecuta recovery.exe
 
-
+se crea automaticamente un backup de tu nand original en la carpeta nandb
 
 # AUTO FIRM CONVERTER
 
