@@ -40,3 +40,5 @@ para cambiar el native firm de tu consola por otro
 copia el backup de tu nand a  la carpeta y ejecuta convertir.exe
 
 se crea automaticamente un backup de tu nand original en la carpeta nandb
+
+detecta si hay un nand.img o nand.bin
