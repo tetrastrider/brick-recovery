@@ -1,18 +1,19 @@
-# brick-recovery
+
+
+# NATIVE FIRM RECOVERY
 
 Una simple herramienta para poder recuperarse de brick por mal downgrade del native firm
 
--- NATIVE FIRM RECOVERY --
 
-V 1.3 AUTOMATIZACION COMPLETA Y NOTAS DE AYUDA EN PANTALLA
+V 1.3 automatizacion completa y notas de ayuda en pantalla
 
-AUTO BACKUP DE LA NAND A LA CARPETA NANDB
-
-
-V 1.2 FIX DESENCRIPTACION FIRM CIA
+auto backup de la nand a la carpeta nandb
 
 
-V 1.0 PROCESO AUTOMATICO Y CORRECTO TRANSPLANTE DE LOS FIRM
+V 1.2 fix desencriptacion firm cia
+
+
+V 1.0 proceso automatico y correcto transplante de los firm
 
 0X0B130000 firm0 start
 
@@ -26,16 +27,16 @@ V 1.0 PROCESO AUTOMATICO Y CORRECTO TRANSPLANTE DE LOS FIRM
 
 *************  USO   ***************
 
-COPIA EL BACKUP DE TU NAND A  LA CARPETA Y EJECUTA RECOVERY.EXE
+copia el backup de tu nand a  la carpeta y ejecuta recovery.exe
 
---- AUTO FIRM CONVERTER --
 
-PARA CAMBIAR EL NATIVE FIRM DE TU CONSOLA POR OTRO 
+
+# AUTO FIRM CONVERTER
+
+para cambiar el native firm de tu consola por otro 
 
 -- USO --
 
-COPIA EL BACKUP DE TU NAND A  LA CARPETA Y EJECUTA CONVERTIR.EXE
+copia el backup de tu nand a  la carpeta y ejecuta convertir.exe
 
-SE CREA AUTOMATICAMENTE UN BACKUP DE TU NAND ORIGINAL EN LA CARPETA NANDB
-
-
+se crea automaticamente un backup de tu nand original en la carpeta nandb
