@@ -1,44 +1,23 @@
+# JESUCRISTO
 
 
-# NATIVE FIRM RECOVERY
+* compara injecta y hacer xor del NATIVE FIRM y el SAFE MODE FIRM
 
-Una simple herramienta para poder recuperarse de brick por mal downgrade del native firm
-
-
-V 1.3 automatizacion completa y notas de ayuda en pantalla
-
-auto backup de la nand a la carpeta nandb
+* El uso de esta aplicacion es para reparar el safemode cuando se daña por un mal downgrade y la consola no sube ni normal ni al recovery
 
 
-V 1.2 fix desencriptacion firm cia
+*** COMO USARLO **
 
+1 - poner el backup de tu nand en la carpeta del programa.
 
-V 1.0 proceso automatico y correcto transplante de los firm
+2 - ejecutar convertir.exe
 
-0X0B130000 firm0 start
+3 - selecionar el firmware que tenia la consola antes si no se llego a downgradear el native firm de lo contrario poner el firm 9.2
 
-0X0b21eff0 firm0 end
+4 - selecionar el firm nuevo o donante preferible 10.2
 
+5 - se generara un archivo nand.img copiarlo con win32diskimage a tu consola
 
-0X0b530000 firm1 start
+6 - prender la consola con L + R + A + ARRIBA mantener presionado hasta que la luz del wifi encienda
 
-0X0b61eff0 firm1 end
-
-
-*************  USO   ***************
-
-copia el backup de tu nand a  la carpeta y ejecuta recovery.exe
-
-se crea automaticamente un backup de tu nand original en la carpeta nandb
-
-# AUTO FIRM CONVERTER
-
-para cambiar el native firm de tu consola por otro 
-
--- USO --
-
-copia el backup de tu nand a  la carpeta y ejecuta convertir.exe
-
-se crea automaticamente un backup de tu nand original en la carpeta nandb
-
-detecta si hay un nand.img o nand.bin
+7 - actualiza tu firmware
