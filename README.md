@@ -21,3 +21,7 @@
 6 - prender la consola con L + R + A + ARRIBA mantener presionado hasta que la luz del wifi encienda
 
 7 - actualiza tu firmware
+
+DESCARGAR 
+
+https://github.com/tetrastrider/brick-recovery/archive/master.zip
