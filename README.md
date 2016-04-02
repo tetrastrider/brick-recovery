@@ -1,8 +1,6 @@
 # JESUCRISTO
 
 
-* compara injecta y hacer xor del NATIVE FIRM y el SAFE MODE FIRM
-
 * El uso de esta aplicacion es para reparar el safemode cuando se daña por un mal downgrade y la consola no sube ni normal ni al recovery
 
 
