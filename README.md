@@ -23,3 +23,5 @@
 DESCARGAR 
 
 <a href="https://github.com/tetrastrider/brick-recovery/archive/master.zip">JESUCRISTO V 1.0</a>
+
+<a href="https://github.com/tetrastrider/brick-recovery/blob/master/JESUCRISTO%20V1.2.rar">JESUCRISTO V 1.2</a>
